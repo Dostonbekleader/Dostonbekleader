@@ -26,8 +26,9 @@ Tetradic of #F75C7E
 
 <!-- Social icons section -->
 <p align="center">
+  <!--
   <a href="https://www.instagram.com/dostonbek_ismonov_7"><img width="32px" alt="instagram" title="instagram" src="http://www.simgeoyunterapisi.com/wp-content/uploads/2019/08/instagram-png-logo-300x300.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;-->
   <a href="https://www.youtube.com/c/dostonbek ismonov"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/VDostonbek Ismonov/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/128/10090/10090314.png"/></a>
