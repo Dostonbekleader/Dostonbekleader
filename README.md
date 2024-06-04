@@ -30,10 +30,6 @@
   <a href="https://www.linkedin.com/in/Dostonbek Ismonov/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
   </a>
-   <a href = "dostonbekismonov71@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
-  </a>
-  
   <a href="https://www.instagram.com/dostonbek_ismonov_7/?hl=tr" target="_blank">
    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
   </a>
