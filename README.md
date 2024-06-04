@@ -1,4 +1,4 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu8dGmzw0ot1hXIN3ku9LAD_v9Yh0lcMxvRA&s
+
 
 <h1 align="center">Hi 👋, I'm Dostonbek Ismonov</h1>
 <h3 align="center">I'm a passionate fullstack developer currently studying computer engineering in Turkey.</h3>
