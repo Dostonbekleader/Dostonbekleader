@@ -26,13 +26,17 @@ Tetradic of #F75C7E
 
 <!-- Social icons section -->
 <p align="center">
+  <a href="https://www.instagram.com/dostonbek_ismonov_7"><img width="32px" alt="instagram" title="instagram" src="http://www.simgeoyunterapisi.com/wp-content/uploads/2019/08/instagram-png-logo-300x300.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/c/dostonbek ismonov"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/VDostonbek Ismonov/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/128/10090/10090314.png"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/@me" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/VDostonbek Ismonov/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+ <a href="https://www.facebook.com/login/identify/?ctx=recover/"><img width="32px" alt="facebook" title="facebook" src="https://img.icons8.com/?size=80&id=VFMgSms8GmnV&format=png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
+ 
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
