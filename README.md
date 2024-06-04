@@ -17,7 +17,12 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;and;cyber%20security %20engineer;Always%20learning%20new%20things;Welcome+My+GitHub;+My+name's+Dostonbek+Ismonov;+and;%20studying+computer+engineering;+in+Turkey&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCente r=true&pause=1000&size=22"/></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;and;cyber%20security %20engineer;Always%20learning%20new%20things;Welcome+My+GitHub;+My+name's+Dostonbek+Ismonov;+and;%20studying+computer+engineering;+in+Turkey&font=Fira%20Code&center=true&width=440&height=45&color=#5C7EF7
+Tetradic of #F75C7E
+#F75C7E
+#F7D55C
+#5CF7D5
+&vCente r=true&pause=1000&size=22"/></a>
 </p>
 
 <!-- Social icons section -->
