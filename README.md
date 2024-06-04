@@ -1,6 +1,5 @@
 
 
-
 # Hi there!
 
 <!-- -->
@@ -12,7 +11,7 @@
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2IyYjY2c2R4YmY0MDRjYnJvZWp2eTVzbGtmdG1hdmNsaDkwN3NhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ELham0Mveox9e/giphy.webp" alt="Coding" width=200 height=150 align="right">
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
