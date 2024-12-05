@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
-    <img src="https://coding.gif">
+    <img src=coding.gif>
   </a>  
 </p>
  
