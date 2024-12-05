@@ -1,7 +1,7 @@
 
 <p align="center">
-  <a href="https:/github.com/user-attachments/assets/1a11e718-de69-437c-bc98-3804bf4ed5bb)/www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
-    <img src="coding.gif" width="80"/>
+  <a href="https://www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
+    <img src="https://media4.coding.gif/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="80"/>
   </a>  
 </p>  
 
