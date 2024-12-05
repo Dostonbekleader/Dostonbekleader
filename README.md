@@ -1,7 +1,7 @@
 <!-- Contact -->
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
+  <a href="C:\Users\Acer\Downloads">
     <img src="https://coding.gif">
   </a>  
 </p>
