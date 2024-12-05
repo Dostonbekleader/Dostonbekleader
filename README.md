@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://coding.gif/user-attachments/assets/1a11e718-de69-437c-bc98-3804bf4ed5bb)/www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
+  <a href="https:/github.com/user-attachments/assets/1a11e718-de69-437c-bc98-3804bf4ed5bb)/www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
     <img src="coding.gif" width="80"/>
   </a>  
 </p>  
