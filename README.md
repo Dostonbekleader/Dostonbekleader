@@ -5,6 +5,9 @@
 " width="80"/>
   </a>  
 </p>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uma-dev&style=flat-square&color=242424" alt="My stats">
+</p>
 
 
 
