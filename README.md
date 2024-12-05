@@ -1,12 +1,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
-    <img src="coding.gif/user-attachments/assets/2ab75dd3-c7cc-445f-aa82-d701465c238e
+    <img src="/user-attachments/assets/2ab75dd3-c7cc-445f-aa82-d701465c238e
 " width="80"/>
   </a>  
 </p>  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uma-dev&style=flat-square&color=242424" alt="My stats">
+  <img src="https://coding.gif/ghpvc/?username=uma-dev&style=flat-square&color=242424" alt="My stats">
 </p>
 
 
