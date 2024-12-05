@@ -1,7 +1,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
-    <img src="https://coding.gif/media/jdPMeyv9rn0hZHh8n9/coding.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=coding.gif&ct=s" width="80"/>
+    <img src="https://coding.gif/user-attachments/assets/2ab75dd3-c7cc-445f-aa82-d701465c238e
+" width="80"/>
   </a>  
 </p>  
 
