@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://coding.gif/ghpvc/?username=uma-dev&style=flat-square&color=242424">
+  <img src="https://coding/user-attachments/assets/8fb80836-ef41-48c3-8d6a-e23ce1f4d359)
+/ghpvc/?username=uma-dev&style=flat-square&color=242424">
 </p>
 
 # Dostonbek Ismonov 👋 
