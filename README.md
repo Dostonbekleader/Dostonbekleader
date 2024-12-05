@@ -6,9 +6,7 @@
   </a>  
 </p>
  
-<p align="center">
-  <img src="https://coding.gif/ghpvc/?username=uma-dev&style=flat-square&color=242424" alt="My stats">
-</p>
+
 
 
 
