@@ -1,5 +1,5 @@
 ![coding](https://github.com/user-attachments/assets/84a273c2-f4dd-4bb7-971d-2438bb0aebeb)<p align="center">
-  <img src="https://coding.gif/ghpvc/">
+  <img src="https://coding.gif">
 </p>
 
 # Dostonbek Ismonov 👋 
