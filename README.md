@@ -1,6 +1,6 @@
 
 <br>
-<img alt="Coder GIF" height=850 width=550 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=450 width=950 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
 
