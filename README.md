@@ -11,21 +11,26 @@
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </a>  
+  
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   </a>
+  
   <a href="https://www.mysql.com/" target="_blank">
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
+  
   <a href="https://www.python.org/" target="_blank">
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
   </a> 
+  
   <a href="https://isocpp.org/" target="_blank">
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"  />
   </a> 
  <a href="https://www.iso.org/standard/74528.html" target="_blank">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"  />
   </a> 
+  
   <a href="https://www.tableau.com/" target="_blank">
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
   </a>
@@ -35,6 +40,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
   </a>
+  
   <a href="https://nodejs.org/en" target="_blank">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   </a> 
@@ -95,6 +101,4 @@
 </div>
 
 
-## 🛠 Skills
-Python, C, C++, Java, SQL, Machine Learning, Javascript, HTML, CSS
 
